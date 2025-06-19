@@ -1,1 +1,8 @@
 .DS_Store
+# FILENAME: .gitignore
+__pycache__/
+*.pyc
+.env
+/output/
+/processing/
+/input/
